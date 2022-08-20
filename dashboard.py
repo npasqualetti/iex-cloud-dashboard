@@ -15,7 +15,7 @@ st.set_page_config(
         menu_items={
              'Get Help': 'https://www.google.com',
              'Report a bug': "https://www.google.com",
-             'About': "# This is a header. This is an *extremely* cool app!"
+             'About': "# This is a header. This is an *extremely* cool apps!"
          })
 
 symbol = st.sidebar.text_input("Symbol", value='MSFT')
