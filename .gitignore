@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+*
+config.py
+share
+lib64
+lib64etc
+bin
+__pycache__
+dump.rdp
